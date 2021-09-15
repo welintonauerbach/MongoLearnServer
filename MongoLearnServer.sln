@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoLearnServer", "MongoLearnServer\MongoLearnServer.csproj", "{DEC64AD7-E0D7-4AFA-98B8-B86278FF0443}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEC64AD7-E0D7-4AFA-98B8-B86278FF0443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC64AD7-E0D7-4AFA-98B8-B86278FF0443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC64AD7-E0D7-4AFA-98B8-B86278FF0443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC64AD7-E0D7-4AFA-98B8-B86278FF0443}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E67882F7-7C94-4548-B260-0C98431786D6}
+	EndGlobalSection
+EndGlobal
