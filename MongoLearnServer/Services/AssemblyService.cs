@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using MongoDB.Driver;
+using MongoLearnServer.DatabaseSettings;
 using MongoLearnServer.Model;
 
 namespace MongoLearnServer.Services

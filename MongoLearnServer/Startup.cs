@@ -13,6 +13,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Options;
 using MongoDB.Driver;
+using MongoLearnServer.DatabaseSettings;
 using MongoLearnServer.Model;
 using MongoLearnServer.Services;
 using MongoDatabaseSettings = MongoDB.Driver.MongoDatabaseSettings;
